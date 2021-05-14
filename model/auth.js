@@ -7,3 +7,4 @@ const authSchema = new Schema({
 });
 
 module.exports = mongoose.model("auth", authSchema);
+// 스키마 필기가 하나도 없네 
